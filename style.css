@@ -105,7 +105,7 @@ nav ul li a:hover::after {
 #about {
     width: 100%;
     min-height: 100vh;
-    background-image: url(/images/backgroung2.jpg);
+    background-image: url(./images/backgroung2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -113,7 +113,7 @@ nav ul li a:hover::after {
 #skills {
     width: 100%;
     min-height: 100vh;
-    background-image: url(/images/backgroung2.jpg);
+    background-image: url(./images/backgroung2.jpg);
     background-size: cover;
     background-position: center;
     align-items: stretch;
@@ -158,7 +158,7 @@ nav ul li a:hover::after {
 
 #skills {
     width: 100%;
-    background-image: url(/images/R.jpg);
+    background-image: url(./images/R.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -179,7 +179,7 @@ nav ul li a:hover::after {
 
 #projects {
     width: 100%;
-    background-image: url(/images/white.webp);
+    background-image: url(./images/white.webp);
     background-size: cover;
     background-position: center;
     align-items: stretch;
